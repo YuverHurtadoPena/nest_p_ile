@@ -1,0 +1,1 @@
+docker run --name nest-prueba -e POSTGRES_USER=yuver -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=gestion_usuario -p 5432:5432 -d postgres
